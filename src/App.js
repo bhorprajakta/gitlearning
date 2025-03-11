@@ -8,6 +8,7 @@ function App() {
     this is new line 
 
     changes of A
+    changes of B
     </div>
   );
 }
