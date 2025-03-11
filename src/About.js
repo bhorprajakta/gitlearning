@@ -4,6 +4,7 @@ function About() {
   return (
     <div>
       added about 
+      anotheer file
     </div>
   )
 }
