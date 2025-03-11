@@ -10,7 +10,7 @@ function App() {
     changes of A
     changes of B - changes of B1 - changes of B2- changes of B3
     changes of C
-    changes of D
+    changes of D - changes of B1 - changes of B2- changes of B3
     </div>
   );
 }
