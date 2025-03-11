@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
      hello praj i am qakash
-    how are you
+    how are you i am file
     this is new line 
     </div>
   );
