@@ -14,7 +14,7 @@ function App() {
 
     changes OF O
     changes OF P
-    changes OF P - changes OF P1 -changes of p2
+    changes OF P - changes OF P1 -changes of p2 - changes of p3
     </div>
   );
 }
