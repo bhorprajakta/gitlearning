@@ -14,6 +14,7 @@ function App() {
 
     changes OF O
     changes OF P
+    changes OF P - changes OF P1 
     changes og q
     </div>
   );
