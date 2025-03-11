@@ -8,7 +8,7 @@ function App() {
     this is new line 
 
     changes of A
-    changes of B - changes of B1
+    changes of B - changes of B1 - changes of B2
     changes of C
     changes of D
     </div>
