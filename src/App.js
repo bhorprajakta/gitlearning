@@ -5,6 +5,7 @@ function App() {
     <div className="App">
      hello praj i am qakash
     how are you
+    this is new line 
     </div>
   );
 }
