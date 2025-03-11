@@ -9,6 +9,7 @@ function App() {
 
     changes of A
     changes of B
+    changes of C
     </div>
   );
 }
